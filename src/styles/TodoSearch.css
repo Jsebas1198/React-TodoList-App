@@ -1,0 +1,31 @@
+.add-task{
+    background-color:var(--black);
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap:50px;
+     height:60px;
+     border-radius: 10px;
+     margin:20px 0;
+ }
+ .add-task input{
+     width: 100%;
+     height: 100%;
+     border: none;
+     color: var(--black);
+     font-size: 1.5rem;
+     font-weight: bold;
+     text-align: center;
+     letter-spacing: 1px;
+     border-radius: 10px;
+ }
+ .add-task i{
+     font-size:3rem;
+     color: var(--white) ;
+     border-radius: 10px;
+     padding-right: 1em;
+ }
+ .add-task i:hover{
+  cursor: pointer;
+  transform:scale(1.1);
+ }

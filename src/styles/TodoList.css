@@ -1,0 +1,38 @@
+.section-task{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.section-task h3{
+color:var(--black);
+padding-top:10px;
+padding-bottom:30px;
+}
+.section-task ul{
+    width: 60%;
+}
+.section-task li{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    background:white;
+    border-radius: 15px;
+    padding:10px;
+    justify-content: space-between;
+    width:100%;
+    margin:5px 0;
+}
+.section-task i{
+    font-size:2rem;
+}
+.section-task i:hover{
+    cursor: pointer;
+    color:var(--blue-light);
+}
+.line-through{
+    text-decoration: line-through;
+    color:var(--red);
+}
