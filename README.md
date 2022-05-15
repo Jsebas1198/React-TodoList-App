@@ -2,7 +2,7 @@
 
 **Link to project:** https://vocal-genie-790231.netlify.app
 
-![todo_javascript](https://user-images.githubusercontent.com/96799477/168452695-37cd66c1-17bf-4c95-b342-7310bef17b53.png)
+![todo_React](https://user-images.githubusercontent.com/96799477/168455044-b0d78851-8fd5-443f-8e34-15f912544d9f.png)
 
 ## How It's Made:
 
